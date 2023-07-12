@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * allic_grid - nested loops to make grid
+ * alloc_grid - nested loops to make grid
  * @width: width input
  * @height: height input
  *
