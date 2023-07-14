@@ -28,7 +28,7 @@ char *_memset(char *s, char b, unsigned int n)
  * @size: size of each element
  *
  * return: pointer to allocated memory
- *	   if calloc fails or if nmemb or size is 0, the function returns NULL
+ *	   if _calloc fails or if nmemb or size is 0, the function returns NULL
  */
 
 void *_calloc(unsigned int nmemb, unsigned int size)
