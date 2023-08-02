@@ -5,7 +5,7 @@
  * struct list_s - a singly, linked list
  * @str: is a string - (malloc'd string)
  * @len: is the length of the string
- * @nex: points to the next node
+ * @next: points to the next node
  *
  * Description: singly linked list node structure
  */
